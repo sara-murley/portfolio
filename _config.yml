@@ -5,6 +5,8 @@ remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air"
 logo: "/assets/favicon.png"
 favicon: "/assets/favicon.png"
+include:
+  - _includes/head_custom.html
 
 minimal_mistakes:
   masthead: true
