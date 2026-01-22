@@ -1,8 +1,30 @@
-title: Sara Murley 
-theme: jekyll-theme-minimal
+title: Sara Murley
+description: Data science for public policy, social science, and applied research
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
 
+author:
+  name   : "Sara Murley"
+  avatar : "/assets/images/profile.jpg"   # optional
+  bio    : "M.S. in Data Science for Public Policy at Georgetown University."
+  location: "Washington, DC"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:your.email@georgetown.edu"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/yourusername"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/yourprofile"
 
-header_pages:
-  - index.md
-  - resume.md
-  - projects/index.md
+navigation:
+  main:
+    - title: "Home"
+      url: /
+    - title: "Resume"
+      url: /resume/
+    - title: "Projects"
+      url: /projects/
