@@ -1,0 +1,27 @@
+---
+title: Project Name
+---
+
+# Project Name
+
+## Overview
+One–two paragraph description of the problem, motivation, and policy relevance.
+
+## Data
+- Dataset name
+- Source
+- Unit of observation
+
+## Methods
+- Key modeling or analytical techniques
+- Any assumptions or limitations
+
+## Results
+High-level findings (figures/tables can be added later).
+
+## Code
+📁 GitHub repository: [link to code folder or repo]
+
+## Next Steps
+- Planned improvements
+- Extensions or robustness checks
