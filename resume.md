@@ -9,7 +9,6 @@ You can view my resume below or download a PDF version.
 
 **[Download PDF](assets/resume.pdf)**
 
----
 
 ## Education
 
@@ -29,8 +28,6 @@ September 2020 – May 2024
 - Relevant Coursework: Analytic Tools for Public Policy, Graphs and Networks, Linear Optimization  
 - Fall 2022 Recipient of merit-based Mary Ellen Rudin Award for women in mathematics  
 - Study Abroad: Spring 2023, Seville, Spain (CIEE Advanced Liberal Arts); Summer 2022, London, UK (FIE)  
-
----
 
 ## Experience
 
@@ -57,9 +54,6 @@ June 2023 – August 2024
 May 2022 – July 2022  
 - Drafted advocacy materials and testimony talking points to highlight priorities of disabled patients before Parliament  
 - Translated complex NHS restructuring and its impact on care into accessible briefings for patient audiences  
-
----
-
 
 ## Key Skills
 
