@@ -3,6 +3,7 @@ description: Data science for public policy, social science, and applied researc
 
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air"
+logo: "/assets/favicon.png"
 
 minimal_mistakes:
   masthead: true
