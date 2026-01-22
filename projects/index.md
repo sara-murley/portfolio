@@ -7,9 +7,7 @@ permalink: /projects/
 
 # Projects
 
-This section contains selected data science projects, including code, documentation, and results. Each project emphasizes real-world policy or social science applications.
-
----
+This section contains selected data science projects, including code, documentation, and results. Each project emphasizes real-world policy applications. 
 
 ## Featured Projects
 
