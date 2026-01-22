@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 # Sara Murley
 
 ## Data Science for Public Policy
