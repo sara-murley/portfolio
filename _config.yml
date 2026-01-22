@@ -1,2 +1,8 @@
 title: Sara Murley 
 theme: jekyll-theme-minimal
+
+
+header_pages:
+  - index.md
+  - resume.md
+  - projects/index.md
