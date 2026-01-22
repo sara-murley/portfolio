@@ -1,8 +1,25 @@
 title: Sara Murley
-description: Data science for public policy, social science, and applied research
+description: Data science for public policy, social science, and applied research0
+
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air"
+
 plugins:
   - jekyll-include-cache
+
+navigation:
+  main:
+    - title: "Home"
+      url: /
+    - title: "Resume"
+      url: /resume/
+    - title: "Projects"
+      url: /projects/
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
 
 author:
   name   : "Sara Murley"
@@ -19,17 +36,3 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://linkedin.com/in/yourprofile"
-
-navigation:
-  main:
-    - title: "Home"
-      url: /
-    - title: "Resume"
-      url: /resume/
-    - title: "Projects"
-      url: /projects/
-
-collections:
-  projects:
-    output: true
-    permalink: /projects/:path/
