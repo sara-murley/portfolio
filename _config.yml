@@ -7,15 +7,6 @@ minimal_mistakes_skin: "air"
 plugins:
   - jekyll-include-cache
 
-navigation:
-  main:
-    - title: "Home"
-      url: /
-    - title: "Resume"
-      url: /resume/
-    - title: "Projects"
-      url: /projects/
-
 collections:
   projects:
     output: true
