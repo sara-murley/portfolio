@@ -6,7 +6,7 @@ plugins:
 
 author:
   name   : "Sara Murley"
-  avatar : "/assets/images/profile.jpg"   # optional
+  avatar : "/assets/profile.jpg"   # optional
   bio    : "M.S. in Data Science for Public Policy at Georgetown University."
   location: "Washington, DC"
   links:
