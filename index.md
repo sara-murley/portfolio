@@ -1,24 +1,25 @@
 ---
 title: Home
-layout: home
+layout: single
 author_profile: true
 masthead: true
 permalink: /
+show_recent_posts: false
 ---
 
-# Sara Murley
+Welcome to my portfolio. This site highlights showcases my work at the intersection of data science and public policy. 
 
-## Data Science for Public Policy
-
-Welcome to my portfolio. This site highlights selected data science projects, research, and applied work at the intersection of public policy, social science, and quantitative analysis.
-
-Use the navigation on the left to view my resume and explore projects.
+Use the navigation links above to view my resume and explore projects. 
 
 ---
 
 ## About Me
 
-I am a graduate student at Georgetown University pursuing an M.S. in Data Science for Public Policy. My interests include health policy, immigration, political institutions, and the use of data-driven methods to inform public decision-making.
+I am passionate about using data science and quantitative analysis to make the health care system more affordable and effective. Coming from a mathematics background, I enjoy breaking down complex problems into clear, logical components. I am driven by a desire to understand why health care in the United States is so expensive and how policy can better address the underlying drivers of those costs, particularly in areas like prescription drug pricing, provider incentives, and market structure. 
+
+As a Data Science for Public Policy student at Georgetown University, I am building expertise in machine learning, causal inference, and applied analytics through projects such as those showcased here. Working across private, public, academic, and nonprofit settings has shaped how I connect technical analysis to practical policy questions. 
+
+I am seeking roles that allow me to deepen my health policy expertise while continuing to build on my strong quantitative foundation. I am especially interested in positions where I can turn complex analysis into actionable insights for policymakers. 
 
 **Skills & tools:**  
 Python • R • SQL • Machine Learning • Causal Inference • Data Visualization • Policy Analysis
@@ -27,12 +28,5 @@ Python • R • SQL • Machine Learning • Causal Inference • Data Visualiz
 
 ## Featured Work
 
-Selected projects are available in the **Projects** section, with links to code, methods, and write-ups.
+You can explore my **projects** in the [Projects section](projects).  
 
----
-
-## Contact
-
-- Email: your.email@georgetown.edu  
-- GitHub: https://github.com/yourusername  
-- LinkedIn: your-linkedin-url
