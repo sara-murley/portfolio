@@ -1,4 +1,4 @@
-## Sara Murley
+# Sara Murley
 
 ## Data Science for Public Policy
 
@@ -17,7 +17,7 @@ Python • R • SQL • Machine Learning • Causal Inference • Data Visualiz
 
 ## Featured Projects
 
-### 📊 Project Title
+### Project Title
 **Brief description:** One–two sentence summary of the research question, data, and methods.  
 **Methods:** e.g., regression, machine learning, text analysis  
 **Tools:** Python, R, SQL  
@@ -25,7 +25,7 @@ Python • R • SQL • Machine Learning • Causal Inference • Data Visualiz
 
 ---
 
-### 📈 Project Title
+### Project Title
 **Brief description:** One–two sentence summary of the problem and findings.  
 **Data:** Public dataset name(s)  
 **Focus:** Policy relevance or real-world application  
