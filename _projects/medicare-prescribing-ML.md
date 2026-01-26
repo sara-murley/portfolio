@@ -1,6 +1,6 @@
 ---
 title: Predicting Medicare Prescribing Patterns
-excerpt: Supervised machine learning applied to CMS Medicare Part D data to predict brand-name prescribing
+excerpt: Supervised machine learning applied to CMS Medicare Part D data to predict brand-name prescribing.
 collection: projects
 layout: single
 author_profile: true
@@ -15,7 +15,8 @@ This project develops and evaluates machine learning models using CMS Medicare P
 **Tools:** Python, ML model libraries (Decision Tree, Random Forest, XGBoost)   
 **Data:** Public CMS Data (Medicare Part D Prescriber Public Use Files, Open Payments)   
 
-[**View Project Code**](https://github.com/sara-murley)
-[**Read the Report**](/assets/predicting-medicare-prescribing.pdf)
+<a href="https://github.com/sara-murley" class="btn btn--primary">View Project Code</a>
+<a href="/assets/predicting-medicare-prescribing.pdf" class="btn btn--info">Read Report (PDF)</a>
+
 
 
