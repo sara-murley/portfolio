@@ -3,6 +3,7 @@ title: Resume
 layout: single
 permalink: /resume/
 author_profile: true
+classes: wide
 ---
 
 You can view my resume below or download a PDF version.
