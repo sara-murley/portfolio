@@ -6,9 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-You can view my resume below or download a PDF version.
-
-**[Download PDF](assets/resume.pdf)**
+You can view my resume below or access a PDF version [here](assets/resume.pdf).
 
 
 ## Education
