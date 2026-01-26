@@ -1,29 +1,16 @@
 ---
-title: Project Title
-excerpt: Short one-line description
+title: Predicting Medicare Prescribing Patterns
+excerpt: Supervised machine learning applied to CMS Medicare Part D data to predict brand-name prescribing
 collection: projects
 ---
 
-# Project Name
+*Georgetown University | PPOL 5204 Applied Statistical Learning| January 2024 - May 2024*
 
-## Overview
-One–two paragraph description of the problem, motivation, and policy relevance.
+This project develops and evaluates machine learning models using CMS Medicare Part D data to predict prescribers with a preference for brand-name drugs, with XGBoost emerging as the top-performing model after prioritizing recall to better capture high brand-name prescribers. Model interpretation using SHAP and feature importance reveals that higher beneficiary risk scores, provider specialty, and pharmaceutical industry payments are consistent drivers of brand-name prescribing, highlighting policy opportunities for risk-adjusted benchmarking, specialty-specific guidance, and enhanced transparency.
 
-## Data
-- Dataset name
-- Source
-- Unit of observation
+**Methods:** Supervised machine learning, model tuning and performance evaluation, model interpretability and validation   
+**Tools:** Python, ML model libraries (Decision Tree, Random Forest, XGBoost)   
+**Data:** Public CMS Data (Medicare Part D Prescriber Public Use Files, Open Payments)   
+[View project code](predicting-medicare-prescribing)
 
-## Methods
-- Key modeling or analytical techniques
-- Any assumptions or limitations
 
-## Results
-High-level findings (figures/tables can be added later).
-
-## Code
-📁 GitHub repository: [link to code folder or repo]
-
-## Next Steps
-- Planned improvements
-- Extensions or robustness checks
