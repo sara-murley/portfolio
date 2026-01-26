@@ -16,4 +16,4 @@ This project examines Pennsylvania school districts with similar characteristics
 **Data:** Publicly available district-level data from Future Ready PA, Digital Bridge K-12, COVID-19 School Data Hub, Commonwealth of Pennsylvania 
 
 <a href="https://github.com/sara-murley" class="btn btn--primary">View Project Code</a>
-<a href="/assets/pandemic-learning-models-matching.pdf" class="btn btn--info">Read Report (PDF)</a>
+<a href="/portfolio/assets/pandemic-learning-models-matching.pdf" class="btn btn--info">Read Report (PDF)</a>
