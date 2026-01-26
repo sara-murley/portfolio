@@ -1,6 +1,6 @@
 ---
 title: "Prescription Stimulants SEIR Model"
-excerpt: Epidemiological modeling of stimulant use disorder among college students 
+excerpt: Epidemiological modeling of stimulant use disorder among college students.
 collection: projects
 layout: single
 author_profile: true
