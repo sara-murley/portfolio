@@ -2,6 +2,9 @@
 title: Predicting Medicare Prescribing Patterns
 excerpt: Supervised machine learning applied to CMS Medicare Part D data to predict brand-name prescribing
 collection: projects
+layout: single
+author_profile: true
+classes: wide
 ---
 
 *Georgetown University | PPOL 5204 Applied Statistical Learning| January 2024 - May 2024*
