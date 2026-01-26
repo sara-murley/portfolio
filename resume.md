@@ -11,9 +11,7 @@ You can view my resume below or download a PDF version.
 
 
 ## Education
-
-### Georgetown University
-**M.S. in Data Science for Public Policy**  
+**Georgetown University - M.S. in Data Science for Public Policy**   
 *Expected Graduation: May 2026*
 
 - GPA: 4.00  
@@ -21,8 +19,8 @@ You can view my resume below or download a PDF version.
 - Teaching Assistant: Accelerated Statistics for Public Policy  
 - Data Manager: McCourt Policy in Practice  
 
-### University of Wisconsin-Madison
-**B.A. in Mathematics and Spanish | Certificates: Public Policy (Health Specialization) and Data Science**   
+**University of Wisconsin-Madison - B.A. in Mathematics and Spanish**   
+**Certificates: Public Policy (Health Specialization) and Data Science**   
 *September 2020 – May 2024* 
 - GPA: 4.00  
 - Relevant Coursework: Analytic Tools for Public Policy, Graphs and Networks, Linear Optimization  
