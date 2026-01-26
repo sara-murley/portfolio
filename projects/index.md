@@ -6,8 +6,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-# Projects
-
 This section contains selected academic and applied data science projects focused on public policy. 
 Each project description notes methods used and the availability of data and code. 
 
