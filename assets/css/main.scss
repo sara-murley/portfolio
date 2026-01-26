@@ -1,0 +1,13 @@
+---
+# Only the main Sass file needs front matter
+---
+
+@import "minimal-mistakes";
+
+html {
+  font-size: 15px;
+}
+
+.page__content h1 { font-size: 1.8em; }
+.page__content h2 { font-size: 1.5em; }
+.page__content h3 { font-size: 1.25em; }
