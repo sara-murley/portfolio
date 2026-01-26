@@ -1,5 +1,5 @@
 ---
-title: Predicting Medicare Prescribing Patterns
+title: Predicting Medicare Prescribing Patterns Using Machine Learning 
 excerpt: Supervised machine learning applied to CMS Medicare Part D data to predict brand-name prescribing.
 collection: projects
 layout: single
