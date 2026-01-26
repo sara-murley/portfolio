@@ -1,6 +1,6 @@
 ---
 title: "Prescription Stimulants SEIR Model"
-excerpt: Modeling stimulant use and abuse among college students using an SEIR framework (Team project, Fall 2022)
+excerpt: Epidemiological modeling of stimulant use disorder among college students 
 collection: projects
 layout: single
 author_profile: true
