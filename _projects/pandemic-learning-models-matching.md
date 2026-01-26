@@ -1,5 +1,5 @@
 ---
-title: The Impact of Pandemic Learning Models In Pennsylvania: Assessing Educational Outcomes Using Matching
+title: "The Impact of Pandemic Learning Models In Pennsylvania: Assessing Educational Outcomes Using Matching"
 excerpt: Statistical matching analysis of school districts in Pennsylvania to assess the impact of learning models on test scores. 
 collection: projects
 layout: single
