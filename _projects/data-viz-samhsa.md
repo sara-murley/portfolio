@@ -16,7 +16,8 @@ Developed interactive dashboards and visualizations analyzing access to treatmen
 **Data:** SAMHSA TEDS (2006–2023), N-SUMHSS (2023)
 
 <a href="https://github.com/sara-murley/data-viz-substance-use-treatment" class="btn btn--primary">View Project Code</a>
+<a href="https://smurley3.shinyapps.io/shinyapp/" class="btn btn--primary">Admissions Data Explorer</a>
+<a href="https://smurley3.shinyapps.io/facility_characteristics/" class="btn btn--primary">Facility Explorer</a>
 <a href="/portfolio/assets/data-viz-presentation.pdf" class="btn btn--info">View Powerpoint Presentation</a>
-<a href="https://smurley3.shinyapps.io/shinyapp/" class="btn btn--light">Admissions Data Explorer</a>
-<a href="https://smurley3.shinyapps.io/facility_characteristics/" class="btn btn--dark">Facility Explorer</a>
+
 
