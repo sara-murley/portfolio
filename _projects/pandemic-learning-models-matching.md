@@ -1,19 +1,19 @@
 ---
 title: "The Impact of Pandemic Learning Models In Pennsylvania: Assessing Educational Outcomes Using Matching"
-excerpt: Statistical matching analysis of school districts in Pennsylvania to assess the impact of learning models on test scores. 
+excerpt: Analysis of Pennsylvania school districts using statistical matching to assess how COVID-19 learning models affected student test scores.
 collection: projects
 layout: single
 author_profile: true
 classes: wide
 ---
 
-Georgetown University | PPOL 5205 Advanced Modeling Techniques | September 2025 - December 2025
+Georgetown University | PPOL 5203 Data Science Foundations | September 2024 - December 2024
 
-This project applies topic modeling to large-scale Reddit discussions of Medicare and Medicaid to examine administrative burden and user experience with the programs. The analysis shows that Medicaid-related burden is driven primarily by eligibility verification, documentation requirements, and caregiving responsibilities, while Medicare-related burden centers on navigation challenges, cost management, and plan selection. The project includes an interactive chatbot interface that connects users to relevant resources and similar discussions based on predicted topic probability distributions. 
+This project examines Pennsylvania school districts with similar characteristics but varying COVID-19 policies to assess the impact of in-person instruction during the 2020–2021 school year on educational outcomes. Using district-level data, the study applied statistical matching to compare districts with different degrees of in-person instruction and analyzed standardized test scores before and after the pandemic. The analysis shows that districts with more in-person instruction experienced significantly smaller declines in Math test scores, highlighting the potential academic benefits of in-person learning during pandemic-related disruptions.
 
-**Methods:** Natural Language Processing, Clustering, Topic Modeling   
-**Tools:** Python  
-**Data:** Reddit data collected via public APIs  
+**Methods:** Matched difference-in-differences, OLS regressions, paired t-tests
+**Tools:** R (MatchIt library), Python  
+**Data:** Publicly available district-level data from Future Ready PA, Digital Bridge K-12, COVID-19 School Data Hub, Commonwealth of Pennsylvania 
 
 <a href="https://github.com/sara-murley" class="btn btn--primary">View Project Code</a>
-<a href="/assets/medicare-medicaid-topic-modeling.pdf" class="btn btn--info">Read Report (PDF)</a>
+<a href="/assets/pandemic-learning-models-matching.pdf" class="btn btn--info">Read Report (PDF)</a>
