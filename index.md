@@ -5,6 +5,7 @@ author_profile: true
 masthead: true
 permalink: /
 show_recent_posts: false
+classes: wide
 ---
 
 Welcome to my portfolio. This site showcases my work at the intersection of data science and public policy. 
