@@ -5,6 +5,7 @@ collection: projects
 layout: single
 author_profile: true
 classes: wide
+featured: true
 ---
 
 Georgetown University | PPOL 5205 Advanced Modeling Techniques | September 2025 - December 2025
