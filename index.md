@@ -8,8 +8,7 @@ show_recent_posts: false
 classes: wide
 ---
 
-This site showcases my work at the intersection of data science and public policy. 
-
+This site showcases my work at the intersection of data science and public policy.  
 Use the navigation links above to view my resume and explore projects. 
 
 ## About Me
@@ -22,5 +21,5 @@ I am seeking roles that allow me to deepen my health policy expertise while cont
 
 ## Featured Work
 
-You can explore my **projects** in the [Projects section](projects).  
+You can explore my featured work on the [projects page](projects).  
 
