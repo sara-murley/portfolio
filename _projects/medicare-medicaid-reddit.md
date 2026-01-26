@@ -1,5 +1,5 @@
 ---
-title: Administrative Burden in Public Health Insurance Programs: Evidence from Reddit Post Topic Modeling
+title: "Administrative Burden in Public Health Insurance Programs: Evidence from Reddit Post Topic Modeling"
 excerpt: Topic modeling of Reddit posts to identify patterns in user experience with Medicare and Medicaid. 
 collection: projects
 layout: single
