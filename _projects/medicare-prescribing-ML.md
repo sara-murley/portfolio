@@ -16,7 +16,7 @@ This project develops and evaluates machine learning models using CMS Medicare P
 **Data:** Public CMS Data (Medicare Part D Prescriber Public Use Files, Open Payments)   
 
 <a href="https://github.com/sara-murley" class="btn btn--primary">View Project Code</a>
-<a href="/assets/predicting-medicare-prescribing.pdf" class="btn btn--info">Read Report (PDF)</a>
+<a href="/portfolio/assets/predicting-medicare-prescribing.pdf" class="btn btn--info">Read Report (PDF)</a>
 
 
 
