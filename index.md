@@ -8,7 +8,7 @@ show_recent_posts: false
 classes: wide
 ---
 
-Welcome to my portfolio. This site showcases my work at the intersection of data science and public policy. 
+This site showcases my work at the intersection of data science and public policy. 
 
 Use the navigation links above to view my resume and explore projects. 
 
