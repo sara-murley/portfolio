@@ -16,4 +16,5 @@ This project applies topic modeling to large-scale Reddit discussions of Medicar
 **Data:** Reddit data collected via public APIs  
 
 <a href="https://github.com/sara-murley" class="btn btn--primary">View Project Code</a>
+<a href="https://smurley3.shinyapps.io/final_proj/" class="btn btn--primary">Interactive Dashboard and Chatbot</a>
 <a href="/portfolio/assets/medicare-medicaid-topic-modeling.pdf" class="btn btn--info">Read Report (PDF)</a>
