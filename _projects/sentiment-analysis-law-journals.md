@@ -1,6 +1,6 @@
 ---
 title: "Sentiment Analysis of Law Review Articles"
-excerpt: Lexicon-based sentiment analysis of EU law review articles (Research Assistant to Professor Kelemen)
+excerpt: Lexicon-based sentiment analysis of EU law review articles.
 collection: projects
 layout: single
 author_profile: true
